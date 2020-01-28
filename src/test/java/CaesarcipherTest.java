@@ -1,17 +1,10 @@
 
         ## author
         Ray Chengole
-        ## languages used
-        HTML
-        CSS
-        JavaScript
         ### Technical requirements
         Any web browser but i would recommend google chrome
         #### Content information
         raychengole97@gmail.com
-        ## live link
-         https://raywhizchengz.github.io/pizza-app.github.io/
-
 
          MIT License
          Copyright (c) 2019 Ray Chengole
